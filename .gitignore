@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+
+# Local Claude Code settings
+.claude/settings.local.json
